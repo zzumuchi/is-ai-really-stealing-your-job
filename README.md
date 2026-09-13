@@ -1,6 +1,10 @@
 # Is AI Really Stealing Your Job?
 
+<p align="right"><strong>English</strong> | <a href="./README.ko.md">한국어</a></p>
+
 An interactive data storytelling project that explores how AI is reshaping the job market.
+
+This project was created for the **2026-1 Introduction to Data Visualization course at Yonsei University** (연세대학교 2026-1 데이터시각화입문).
 
 ## Overview
 
